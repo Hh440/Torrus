@@ -27,9 +27,9 @@ Make sure you have Node.js and npm installed on your machine.
    git clone https://github.com/yourusername/torrus.git
 
 2. Navigate the directory:
-  ```bash
-  cd torrus
-  ```
+   ```bash
+   cd torrus
+   ```
 
 3. Install the dependencies:
    ```bash
