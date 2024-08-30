@@ -26,15 +26,23 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/yourusername/torrus.git
 
-2. Navigate the directory
+2. Navigate the directory:
   ```bash
   cd torrus
+  ```
 
-
-3. Install the dependencies
+3. Install the dependencies:
    ```bash
    npm i
+   ```
 
-4. Run the Project
+4. Run the ProjectL:
    ```bash
    npm run dev
+   ```
+
+## License
+
+This project is licensed under the MIT License.
+
+---
